@@ -1,4 +1,4 @@
-### Hi there, I,m Damla 👋
+### Hi there, I'm Damla 👋
 
 
 - 🔭 I’m currently working on Huawei 
