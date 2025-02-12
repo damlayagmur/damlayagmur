@@ -6,6 +6,8 @@
 - 💬 Ask me about Kotlin, HMS, Firebase 
 - 😄 Pronouns: she/her
 
+ ![](https://komarev.com/ghpvc/?username=damlayaygmur&label=PROFILE+VIEWS)
+
 ## ⭐️ Technologies I like
 <p align="left">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/kotlin.svg" alt="kotlin" width="25" height="25" />
